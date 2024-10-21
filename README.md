@@ -1,2 +1,2 @@
-# college-_demo
-This is my first Git repository 
+# college_demo
+This is my first Git Repository 
